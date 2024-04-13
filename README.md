@@ -1,11 +1,12 @@
 # React Native
 
-https://reactnative.dev/
+<a href='https://reactnative.dev/'>Officical website</a>
 
 ---
 
 - [What is React Native?](#1)
 - [Two ways of styling](#2)
+- [Debugging](#3)
 
 ---
 
@@ -49,3 +50,20 @@ const styles = StyleSheet.create({
 ```
 
 Style sheet objects allows to clearly separate JSX code and it also makes styles reusable.
+
+### 📒 Debugging <a name="3"></a>
+
+React Native provides an in-app developer menu which offers several debugging options.
+
+>
+
+> React Developer Tools
+
+```
+sudo npm install -g react-devtools
+react-devtools
+```
+
+![](4.png)
+
+<a href='https://reactnative.dev/docs/debugging#accessing-the-in-app-developer-menu'>Debugging on the official website</a>
