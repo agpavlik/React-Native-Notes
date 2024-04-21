@@ -85,4 +85,20 @@ react-devtools
 
 - <a href='https://docs.expo.dev/versions/latest/sdk/status-bar/'>StatusBar</a> from 'expo-status-bar'. A library that provides the same interface as the React Native StatusBar API, but with slightly different defaults to work great in Expo environments.
 
-🚩 [Guess-Number-Game](https://github.com/agpavlik/Guess-Number-Game). This example containes next components:
+🚩 [Guess-Number-Game](https://github.com/agpavlik/Guess-Number-Game). In This example containes next components:
+
+- Aforementioned Text, View, Image, TextInput
+
+- <a href='https://reactnative.dev/docs/next/alert'>Alert</a> - launches an alert dialog with the specified title and message.
+
+- <a href='https://reactnative.dev/docs/next/flatlist'>FlatList</a> - performant interface for rendering basic
+
+- <a href='https://reactnative.dev/docs/next/imagebackground#example'>ImageBackground</a> - has the same props as <Image>, and add whatever children to it you would like to layer on top of it.
+
+- <a href='https://reactnative.dev/docs/next/safeareaview'>SafeAreaView</a> - render content within the safe area boundaries of a device. It is currently only applicable to iOS devices.
+
+- <a href='https://docs.expo.dev/versions/latest/sdk/linear-gradient/'>LinearGradient from "expo-linear-gradient"</a> - provides a native React view that transitions between multiple colors in a linear direction.
+
+- <a href='https://docs.expo.dev/versions/latest/sdk/font/'>useFonts from "expo-font"</a> - library that allows loading fonts at runtime and using them in React Native components.
+
+- <a href='https://docs.expo.dev/versions/latest/sdk/splash-screen/'>SplashScreen from "expo-splash-screen"</a> - library is used to tell the splash screen to remain visible until it has been explicitly told to hide. This is useful to do tasks that will happen behind the scenes such as making API calls, pre-loading fonts, animating the splash screen and so on.
