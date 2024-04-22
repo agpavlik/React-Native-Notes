@@ -8,8 +8,8 @@
 - [Two ways of styling](#2)
 - [Debugging](#3)
 - [Core Components](#4)
-
----
+- [Navigation between screens](#5)
+- ***
 
 ### 📒 What is React Native? <a name="1"></a>
 
@@ -110,3 +110,7 @@ react-devtools
 - <a href='https://reactnative.dev/docs/keyboardavoidingview'>KeyboardAvoidingView</a> - will automatically adjust its height, position, or bottom padding based on the keyboard height to remain visible while the virtual keyboard is displayed
 
 - <a href='https://reactnative.dev/docs/scrollview'>ScrollView</a> - wraps platform ScrollView while providing integration with touch locking "responder" system
+
+- <a href='https://reactnative.dev/docs/platform'>Platform</a> - returns an object which contains all available common and specific constants related to the platform.
+
+### 📒 Navigation between screens <a name="4"></a>
