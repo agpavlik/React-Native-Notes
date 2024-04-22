@@ -103,4 +103,10 @@ react-devtools
 
 - <a href='https://docs.expo.dev/versions/latest/sdk/splash-screen/'>SplashScreen from "expo-splash-screen"</a> - library is used to tell the splash screen to remain visible until it has been explicitly told to hide. This is useful to do tasks that will happen behind the scenes such as making API calls, pre-loading fonts, animating the splash screen and so on.
 
-- <a href='https://reactnative.dev/docs/dimensions'>Dimensions</a> - You can get the application window's width and height using API
+- <a href='https://reactnative.dev/docs/dimensions'>Dimensions</a> - get the application window's width and height using API
+
+- <a href='https://reactnative.dev/docs/usewindowdimensions'>useWindowDimensions</a> - automatically updates all of its values when screen size or font scale changes
+
+- <a href='https://reactnative.dev/docs/keyboardavoidingview'>KeyboardAvoidingView</a> - will automatically adjust its height, position, or bottom padding based on the keyboard height to remain visible while the virtual keyboard is displayed
+
+- <a href='https://reactnative.dev/docs/scrollview'>ScrollView</a> - wraps platform ScrollView while providing integration with touch locking "responder" system
