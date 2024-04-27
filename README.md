@@ -52,6 +52,8 @@ const styles = StyleSheet.create({
 
 Style sheet objects allows to clearly separate JSX code and it also makes styles reusable.
 
+---
+
 ### 📒 Debugging <a name="3"></a>
 
 React Native provides an in-app developer menu which offers several debugging options. One of the popular is React Developer Tools
@@ -62,6 +64,8 @@ react-devtools
 ```
 
 ![](4.png)
+
+---
 
 ### 📒 Core Components <a name="4"></a>
 
@@ -113,4 +117,24 @@ react-devtools
 
 - <a href='https://reactnative.dev/docs/platform'>Platform</a> - returns an object which contains all available common and specific constants related to the platform.
 
+---
+
 ### 📒 Navigation between screens <a name="4"></a>
+
+[React Navigation](https://reactnavigation.org/docs/native-stack-navigator).
+
+🚩 [Gourmand](https://github.com/agpavlik/Gourmand). This example allows to practice with `Stack` Navigator and `Native Stack` Navigator.
+
+```
+npm install @react-navigation/native @react-navigation/native-stack
+```
+
+- <a href='https://reactnative.dev/docs/navigation'>NavigationContainer</a> - wrap the whole app
+
+- <a href='https://reactnavigation.org/docs/getting-started'>createNativeStackNavigator</a> - this native-stack navigator uses the native APIs
+
+🚩 [Navigators](https://github.com/agpavlik/Navigators). This example allows to practice with `Drawer` Navigator and `Tabs` Navigators.
+
+```
+npm install @react-navigation/drawer
+```
