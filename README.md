@@ -9,7 +9,10 @@
 - [Debugging](#3)
 - [Core Components](#4)
 - [Navigation between screens](#5)
-- ***
+- [Redux & Context API](#6)
+- [Handle input, Validations](#7)
+- [HTTP Requests, Fetch, Error Handling](#8)
+- [Authentication](#9)
 
 ### 📒 What is React Native? <a name="1"></a>
 
@@ -137,4 +140,28 @@ npm install @react-navigation/native @react-navigation/native-stack
 
 ```
 npm install @react-navigation/drawer
+
+npx expo install react-native-gesture-handler react-native-reanimated
 ```
+
+- <a href='https://reactnavigation.org/docs/drawer-navigator/'>DrawerNavigator</a> - renders a navigation drawer on the side of the screen which can be opened and closed via gestures.
+
+```
+npm install @react-navigation/bottom-tabs
+```
+
+---
+
+### 📒 Redux & Context API <a name="6"></a>
+
+[Redux vs React's Context API](https://academind.com/tutorials/reactjs-redux-vs-context-api).
+
+### 📒 Handle input, Validations <a name="7"></a>
+
+🚩 [ExpenSee](https://github.com/agpavlik/ExpenSee). This example allows to practice with handle input.
+
+### 📒 HTTP Requests, Fetch, Error Handling<a name="8"></a>
+
+🚩 [ExpenSee](https://github.com/agpavlik/ExpenSee). This example allows to practice with http requests, fetching, error hendling, etc.
+
+### 📒 Authentication <a name="9"></a>
