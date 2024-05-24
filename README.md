@@ -156,12 +156,20 @@ npm install @react-navigation/bottom-tabs
 
 [Redux vs React's Context API](https://academind.com/tutorials/reactjs-redux-vs-context-api).
 
+---
+
 ### 📒 Handle input, Validations <a name="7"></a>
 
 🚩 [ExpenSee](https://github.com/agpavlik/ExpenSee). This example allows to practice with handle input.
+
+---
 
 ### 📒 HTTP Requests, Fetch, Error Handling<a name="8"></a>
 
 🚩 [ExpenSee](https://github.com/agpavlik/ExpenSee). This example allows to practice with http requests, fetching, error hendling, etc.
 
+---
+
 ### 📒 Authentication <a name="9"></a>
+
+![](5.png)
