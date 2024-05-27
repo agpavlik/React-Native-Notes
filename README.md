@@ -173,3 +173,7 @@ npm install @react-navigation/bottom-tabs
 ### 📒 Authentication <a name="9"></a>
 
 ![](5.png)
+
+🚩 [ExpenSee](https://github.com/agpavlik/Udemy-RN-Auth). This example allows to practice with authentication
+
+[React Native AsyncStorage](https://reactnative.dev/docs/asyncstorage).
